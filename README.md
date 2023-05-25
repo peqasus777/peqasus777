@@ -1,20 +1,4 @@
 
-⚡️ Hi there! I'm a Front-End Developer who's always pushing the limits of what's possible on the web.
-💻 I specialize in HTML, CSS, JavaScript and ReactJS, and I have a passion for creating user-friendly websites and applications that look and work great on any device.
-🌱 I'm always learning and experimenting with new technologies, and I love to collaborate with others to bring their ideas to life.
-
-💬 Let's connect and create something amazing!
-
- ## Connect with me  
-<p align = "center">
-[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/peqasus777/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zamir-novruzov-2213568b/) 
-<a href="mailto:peqasus777@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
- 
 
 
 
