@@ -4,7 +4,7 @@
 🌱 I'm always learning and experimenting with new technologies, and I love to collaborate with others to bring their ideas to life.
 
 💬 Let's connect and create something amazing!
-![216329899-d10d0b23-5129-48fb-a633-a00672ae5388](https://user-images.githubusercontent.com/85007480/216604270-55e9c4c3-2e43-46b8-987d-735e3c0524ff.gif)![GitHub stats](https://github-readme-stats.vercel.app/api?username=peqasus777&theme=chartreuse-dark&show_icons=true)
+
  ## Connect with me  
 <p align = "center">
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/peqasus777/)
